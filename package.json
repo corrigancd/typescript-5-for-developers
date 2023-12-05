@@ -1,0 +1,22 @@
+{
+  "name": "typescript-5-for-developers",
+  "version": "1.0.0",
+  "description": "Coding notes from this Udemy course - https://www.udemy.com/course/typescript-full-stack-programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corrigancd/typescript-5-for-developers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corrigancd/typescript-5-for-developers/issues"
+  },
+  "homepage": "https://github.com/corrigancd/typescript-5-for-developers#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
